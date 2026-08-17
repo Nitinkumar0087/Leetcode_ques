@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0283-move-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [1480-running-sum-of-1d-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1929-concatenation-of-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0013-roman-to-integer) |
+| [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0005-longest-palindromic-substring) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
