@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0977-squares-of-a-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1929-concatenation-of-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
