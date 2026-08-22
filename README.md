@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [2469-convert-the-temperature](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/2469-convert-the-temperature) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
 |  |
 | ------- |
