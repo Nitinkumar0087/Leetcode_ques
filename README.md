@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0013-roman-to-integer) |
+| [1927-sum-game](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1927-sum-game) |
 | [2469-convert-the-temperature](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/2469-convert-the-temperature) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Array
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0344-reverse-string) |
+| [1927-sum-game](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1927-sum-game) |
 ## Trie
 |  |
 | ------- |
@@ -111,4 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
