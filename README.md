@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 | [1927-sum-game](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1927-sum-game) |
 | [2469-convert-the-temperature](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/2469-convert-the-temperature) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -134,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
