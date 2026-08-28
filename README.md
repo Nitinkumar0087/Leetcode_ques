@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0344-reverse-string) |
 | [1927-sum-game](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
