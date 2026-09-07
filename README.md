@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0344-reverse-string) |
+| [0940-distinct-subsequences-ii](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Trie
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0940-distinct-subsequences-ii) |
 ## Manacher
 |  |
 | ------- |
