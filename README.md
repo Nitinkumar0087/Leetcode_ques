@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0509-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
