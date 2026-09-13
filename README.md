@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0835-image-overlap](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/3483-unique-3-digit-even-numbers) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
