@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0326-power-of-three) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0940-distinct-subsequences-ii) |
 ## Manacher
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0509-fibonacci-number) |
 ## Linked List
 |  |
