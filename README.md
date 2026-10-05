@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0067-add-binary) |
+| [0844-backspace-string-compare](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/Nitinkumar0087/Leetcode_ques/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
